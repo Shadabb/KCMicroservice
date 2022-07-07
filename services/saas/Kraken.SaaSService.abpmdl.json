@@ -1,0 +1,79 @@
+{
+  "folders": {
+    "items": {
+      "src": {},
+      "test": {},
+      "host": {}
+    }
+  },
+  "packages": {
+    "Kraken.SaaSService.Domain.Shared": {
+      "path": "src/Kraken.SaaSService.Domain.Shared/Kraken.SaaSService.Domain.Shared.abppkg.json",
+      "folder": "src"
+    },
+    "Kraken.SaaSService.Domain": {
+      "path": "src/Kraken.SaaSService.Domain/Kraken.SaaSService.Domain.abppkg.json",
+      "folder": "src"
+    },
+    "Kraken.SaaSService.Application.Contracts": {
+      "path": "src/Kraken.SaaSService.Application.Contracts/Kraken.SaaSService.Application.Contracts.abppkg.json",
+      "folder": "src"
+    },
+    "Kraken.SaaSService.Application": {
+      "path": "src/Kraken.SaaSService.Application/Kraken.SaaSService.Application.abppkg.json",
+      "folder": "src"
+    },
+    "Kraken.SaaSService.EntityFrameworkCore": {
+      "path": "src/Kraken.SaaSService.EntityFrameworkCore/Kraken.SaaSService.EntityFrameworkCore.abppkg.json",
+      "folder": "src"
+    },
+    "Kraken.SaaSService.MongoDB": {
+      "path": "src/Kraken.SaaSService.MongoDB/Kraken.SaaSService.MongoDB.abppkg.json",
+      "folder": "src"
+    },
+    "Kraken.SaaSService.HttpApi": {
+      "path": "src/Kraken.SaaSService.HttpApi/Kraken.SaaSService.HttpApi.abppkg.json",
+      "folder": "src"
+    },
+    "Kraken.SaaSService.HttpApi.Client": {
+      "path": "src/Kraken.SaaSService.HttpApi.Client/Kraken.SaaSService.HttpApi.Client.abppkg.json",
+      "folder": "src"
+    },
+    "Kraken.SaaSService.TestBase": {
+      "path": "test/Kraken.SaaSService.TestBase/Kraken.SaaSService.TestBase.abppkg.json",
+      "folder": "test"
+    },
+    "Kraken.SaaSService.EntityFrameworkCore.Tests": {
+      "path": "test/Kraken.SaaSService.EntityFrameworkCore.Tests/Kraken.SaaSService.EntityFrameworkCore.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "Kraken.SaaSService.MongoDB.Tests": {
+      "path": "test/Kraken.SaaSService.MongoDB.Tests/Kraken.SaaSService.MongoDB.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "Kraken.SaaSService.Domain.Tests": {
+      "path": "test/Kraken.SaaSService.Domain.Tests/Kraken.SaaSService.Domain.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "Kraken.SaaSService.Application.Tests": {
+      "path": "test/Kraken.SaaSService.Application.Tests/Kraken.SaaSService.Application.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "Kraken.SaaSService.HttpApi.Host": {
+      "path": "host/Kraken.SaaSService.HttpApi.Host/Kraken.SaaSService.HttpApi.Host.abppkg.json",
+      "folder": "host"
+    },
+    "Kraken.SaaSService.HttpApi.Client.ConsoleTestApp": {
+      "path": "test/Kraken.SaaSService.HttpApi.Client.ConsoleTestApp/Kraken.SaaSService.HttpApi.Client.ConsoleTestApp.abppkg.json",
+      "folder": "test"
+    },
+    "Kraken.SaaSService.IdentityServer": {
+      "path": "host/Kraken.SaaSService.IdentityServer/Kraken.SaaSService.IdentityServer.abppkg.json",
+      "folder": "host"
+    },
+    "Kraken.SaaSService.Host.Shared": {
+      "path": "host/Kraken.SaaSService.Host.Shared/Kraken.SaaSService.Host.Shared.abppkg.json",
+      "folder": "host"
+    }
+  }
+}

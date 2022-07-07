@@ -1,0 +1,79 @@
+{
+  "folders": {
+    "items": {
+      "src": {},
+      "test": {},
+      "host": {}
+    }
+  },
+  "packages": {
+    "Kraken.AdministrationService.Domain.Shared": {
+      "path": "src/Kraken.AdministrationService.Domain.Shared/Kraken.AdministrationService.Domain.Shared.abppkg.json",
+      "folder": "src"
+    },
+    "Kraken.AdministrationService.Domain": {
+      "path": "src/Kraken.AdministrationService.Domain/Kraken.AdministrationService.Domain.abppkg.json",
+      "folder": "src"
+    },
+    "Kraken.AdministrationService.Application.Contracts": {
+      "path": "src/Kraken.AdministrationService.Application.Contracts/Kraken.AdministrationService.Application.Contracts.abppkg.json",
+      "folder": "src"
+    },
+    "Kraken.AdministrationService.Application": {
+      "path": "src/Kraken.AdministrationService.Application/Kraken.AdministrationService.Application.abppkg.json",
+      "folder": "src"
+    },
+    "Kraken.AdministrationService.EntityFrameworkCore": {
+      "path": "src/Kraken.AdministrationService.EntityFrameworkCore/Kraken.AdministrationService.EntityFrameworkCore.abppkg.json",
+      "folder": "src"
+    },
+    "Kraken.AdministrationService.MongoDB": {
+      "path": "src/Kraken.AdministrationService.MongoDB/Kraken.AdministrationService.MongoDB.abppkg.json",
+      "folder": "src"
+    },
+    "Kraken.AdministrationService.HttpApi": {
+      "path": "src/Kraken.AdministrationService.HttpApi/Kraken.AdministrationService.HttpApi.abppkg.json",
+      "folder": "src"
+    },
+    "Kraken.AdministrationService.HttpApi.Client": {
+      "path": "src/Kraken.AdministrationService.HttpApi.Client/Kraken.AdministrationService.HttpApi.Client.abppkg.json",
+      "folder": "src"
+    },
+    "Kraken.AdministrationService.TestBase": {
+      "path": "test/Kraken.AdministrationService.TestBase/Kraken.AdministrationService.TestBase.abppkg.json",
+      "folder": "test"
+    },
+    "Kraken.AdministrationService.EntityFrameworkCore.Tests": {
+      "path": "test/Kraken.AdministrationService.EntityFrameworkCore.Tests/Kraken.AdministrationService.EntityFrameworkCore.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "Kraken.AdministrationService.MongoDB.Tests": {
+      "path": "test/Kraken.AdministrationService.MongoDB.Tests/Kraken.AdministrationService.MongoDB.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "Kraken.AdministrationService.Domain.Tests": {
+      "path": "test/Kraken.AdministrationService.Domain.Tests/Kraken.AdministrationService.Domain.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "Kraken.AdministrationService.Application.Tests": {
+      "path": "test/Kraken.AdministrationService.Application.Tests/Kraken.AdministrationService.Application.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "Kraken.AdministrationService.HttpApi.Host": {
+      "path": "host/Kraken.AdministrationService.HttpApi.Host/Kraken.AdministrationService.HttpApi.Host.abppkg.json",
+      "folder": "host"
+    },
+    "Kraken.AdministrationService.HttpApi.Client.ConsoleTestApp": {
+      "path": "test/Kraken.AdministrationService.HttpApi.Client.ConsoleTestApp/Kraken.AdministrationService.HttpApi.Client.ConsoleTestApp.abppkg.json",
+      "folder": "test"
+    },
+    "Kraken.AdministrationService.IdentityServer": {
+      "path": "host/Kraken.AdministrationService.IdentityServer/Kraken.AdministrationService.IdentityServer.abppkg.json",
+      "folder": "host"
+    },
+    "Kraken.AdministrationService.Host.Shared": {
+      "path": "host/Kraken.AdministrationService.Host.Shared/Kraken.AdministrationService.Host.Shared.abppkg.json",
+      "folder": "host"
+    }
+  }
+}

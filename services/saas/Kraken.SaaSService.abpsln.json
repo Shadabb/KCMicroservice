@@ -1,0 +1,7 @@
+{
+  "modules": {
+    "Kraken.SaaSService": {
+      "path": "Kraken.SaaSService.abpmdl.json"
+    }
+  }
+}

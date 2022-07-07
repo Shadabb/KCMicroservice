@@ -1,0 +1,79 @@
+{
+  "folders": {
+    "items": {
+      "src": {},
+      "test": {},
+      "host": {}
+    }
+  },
+  "packages": {
+    "Kraken.IdentityService.Domain.Shared": {
+      "path": "src/Kraken.IdentityService.Domain.Shared/Kraken.IdentityService.Domain.Shared.abppkg.json",
+      "folder": "src"
+    },
+    "Kraken.IdentityService.Domain": {
+      "path": "src/Kraken.IdentityService.Domain/Kraken.IdentityService.Domain.abppkg.json",
+      "folder": "src"
+    },
+    "Kraken.IdentityService.Application.Contracts": {
+      "path": "src/Kraken.IdentityService.Application.Contracts/Kraken.IdentityService.Application.Contracts.abppkg.json",
+      "folder": "src"
+    },
+    "Kraken.IdentityService.Application": {
+      "path": "src/Kraken.IdentityService.Application/Kraken.IdentityService.Application.abppkg.json",
+      "folder": "src"
+    },
+    "Kraken.IdentityService.EntityFrameworkCore": {
+      "path": "src/Kraken.IdentityService.EntityFrameworkCore/Kraken.IdentityService.EntityFrameworkCore.abppkg.json",
+      "folder": "src"
+    },
+    "Kraken.IdentityService.MongoDB": {
+      "path": "src/Kraken.IdentityService.MongoDB/Kraken.IdentityService.MongoDB.abppkg.json",
+      "folder": "src"
+    },
+    "Kraken.IdentityService.HttpApi": {
+      "path": "src/Kraken.IdentityService.HttpApi/Kraken.IdentityService.HttpApi.abppkg.json",
+      "folder": "src"
+    },
+    "Kraken.IdentityService.HttpApi.Client": {
+      "path": "src/Kraken.IdentityService.HttpApi.Client/Kraken.IdentityService.HttpApi.Client.abppkg.json",
+      "folder": "src"
+    },
+    "Kraken.IdentityService.TestBase": {
+      "path": "test/Kraken.IdentityService.TestBase/Kraken.IdentityService.TestBase.abppkg.json",
+      "folder": "test"
+    },
+    "Kraken.IdentityService.EntityFrameworkCore.Tests": {
+      "path": "test/Kraken.IdentityService.EntityFrameworkCore.Tests/Kraken.IdentityService.EntityFrameworkCore.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "Kraken.IdentityService.MongoDB.Tests": {
+      "path": "test/Kraken.IdentityService.MongoDB.Tests/Kraken.IdentityService.MongoDB.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "Kraken.IdentityService.Domain.Tests": {
+      "path": "test/Kraken.IdentityService.Domain.Tests/Kraken.IdentityService.Domain.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "Kraken.IdentityService.Application.Tests": {
+      "path": "test/Kraken.IdentityService.Application.Tests/Kraken.IdentityService.Application.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "Kraken.IdentityService.HttpApi.Host": {
+      "path": "host/Kraken.IdentityService.HttpApi.Host/Kraken.IdentityService.HttpApi.Host.abppkg.json",
+      "folder": "host"
+    },
+    "Kraken.IdentityService.HttpApi.Client.ConsoleTestApp": {
+      "path": "test/Kraken.IdentityService.HttpApi.Client.ConsoleTestApp/Kraken.IdentityService.HttpApi.Client.ConsoleTestApp.abppkg.json",
+      "folder": "test"
+    },
+    "Kraken.IdentityService.IdentityServer": {
+      "path": "host/Kraken.IdentityService.IdentityServer/Kraken.IdentityService.IdentityServer.abppkg.json",
+      "folder": "host"
+    },
+    "Kraken.IdentityService.Host.Shared": {
+      "path": "host/Kraken.IdentityService.Host.Shared/Kraken.IdentityService.Host.Shared.abppkg.json",
+      "folder": "host"
+    }
+  }
+}

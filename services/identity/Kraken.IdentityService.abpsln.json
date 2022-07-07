@@ -1,0 +1,7 @@
+{
+  "modules": {
+    "Kraken.IdentityService": {
+      "path": "Kraken.IdentityService.abpmdl.json"
+    }
+  }
+}
