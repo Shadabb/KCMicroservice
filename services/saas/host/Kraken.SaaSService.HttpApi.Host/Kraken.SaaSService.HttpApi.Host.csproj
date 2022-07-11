@@ -16,9 +16,6 @@
 		<ProjectReference Include="..\..\src\Kraken.SaaSService.Application\Kraken.SaaSService.Application.csproj" />
 		<ProjectReference Include="..\..\src\Kraken.SaaSService.EntityFrameworkCore\Kraken.SaaSService.EntityFrameworkCore.csproj" />
 	</ItemGroup>
-	<ItemGroup>
-		<PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.14.0" />
-	</ItemGroup>
 
 	<ItemGroup>
 		<Compile Remove="Logs\**" />

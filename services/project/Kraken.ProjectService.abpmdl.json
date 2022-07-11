@@ -1,0 +1,79 @@
+{
+  "folders": {
+    "items": {
+      "src": {},
+      "test": {},
+      "host": {}
+    }
+  },
+  "packages": {
+    "Kraken.ProjectService.Domain.Shared": {
+      "path": "src/Kraken.ProjectService.Domain.Shared/Kraken.ProjectService.Domain.Shared.abppkg.json",
+      "folder": "src"
+    },
+    "Kraken.ProjectService.Domain": {
+      "path": "src/Kraken.ProjectService.Domain/Kraken.ProjectService.Domain.abppkg.json",
+      "folder": "src"
+    },
+    "Kraken.ProjectService.Application.Contracts": {
+      "path": "src/Kraken.ProjectService.Application.Contracts/Kraken.ProjectService.Application.Contracts.abppkg.json",
+      "folder": "src"
+    },
+    "Kraken.ProjectService.Application": {
+      "path": "src/Kraken.ProjectService.Application/Kraken.ProjectService.Application.abppkg.json",
+      "folder": "src"
+    },
+    "Kraken.ProjectService.EntityFrameworkCore": {
+      "path": "src/Kraken.ProjectService.EntityFrameworkCore/Kraken.ProjectService.EntityFrameworkCore.abppkg.json",
+      "folder": "src"
+    },
+    "Kraken.ProjectService.MongoDB": {
+      "path": "src/Kraken.ProjectService.MongoDB/Kraken.ProjectService.MongoDB.abppkg.json",
+      "folder": "src"
+    },
+    "Kraken.ProjectService.HttpApi": {
+      "path": "src/Kraken.ProjectService.HttpApi/Kraken.ProjectService.HttpApi.abppkg.json",
+      "folder": "src"
+    },
+    "Kraken.ProjectService.HttpApi.Client": {
+      "path": "src/Kraken.ProjectService.HttpApi.Client/Kraken.ProjectService.HttpApi.Client.abppkg.json",
+      "folder": "src"
+    },
+    "Kraken.ProjectService.TestBase": {
+      "path": "test/Kraken.ProjectService.TestBase/Kraken.ProjectService.TestBase.abppkg.json",
+      "folder": "test"
+    },
+    "Kraken.ProjectService.EntityFrameworkCore.Tests": {
+      "path": "test/Kraken.ProjectService.EntityFrameworkCore.Tests/Kraken.ProjectService.EntityFrameworkCore.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "Kraken.ProjectService.MongoDB.Tests": {
+      "path": "test/Kraken.ProjectService.MongoDB.Tests/Kraken.ProjectService.MongoDB.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "Kraken.ProjectService.Domain.Tests": {
+      "path": "test/Kraken.ProjectService.Domain.Tests/Kraken.ProjectService.Domain.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "Kraken.ProjectService.Application.Tests": {
+      "path": "test/Kraken.ProjectService.Application.Tests/Kraken.ProjectService.Application.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "Kraken.ProjectService.HttpApi.Host": {
+      "path": "host/Kraken.ProjectService.HttpApi.Host/Kraken.ProjectService.HttpApi.Host.abppkg.json",
+      "folder": "host"
+    },
+    "Kraken.ProjectService.HttpApi.Client.ConsoleTestApp": {
+      "path": "test/Kraken.ProjectService.HttpApi.Client.ConsoleTestApp/Kraken.ProjectService.HttpApi.Client.ConsoleTestApp.abppkg.json",
+      "folder": "test"
+    },
+    "Kraken.ProjectService.IdentityServer": {
+      "path": "host/Kraken.ProjectService.IdentityServer/Kraken.ProjectService.IdentityServer.abppkg.json",
+      "folder": "host"
+    },
+    "Kraken.ProjectService.Host.Shared": {
+      "path": "host/Kraken.ProjectService.Host.Shared/Kraken.ProjectService.Host.Shared.abppkg.json",
+      "folder": "host"
+    }
+  }
+}

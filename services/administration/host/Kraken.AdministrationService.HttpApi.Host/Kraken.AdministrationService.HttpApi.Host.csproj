@@ -13,6 +13,7 @@
     <ProjectReference Include="..\..\..\..\shared\Kraken.Shared.Hosting\Kraken.Shared.Hosting.csproj" />
     <ProjectReference Include="..\..\..\identity\src\Kraken.IdentityService.Application.Contracts\Kraken.IdentityService.Application.Contracts.csproj" />
     <ProjectReference Include="..\..\..\identity\src\Kraken.IdentityService.EntityFrameworkCore\Kraken.IdentityService.EntityFrameworkCore.csproj" />
+    <ProjectReference Include="..\..\..\project\src\Kraken.ProjectService.Application.Contracts\Kraken.ProjectService.Application.Contracts.csproj" />
     <ProjectReference Include="..\..\..\saas\src\Kraken.SaaSService.Application.Contracts\Kraken.SaaSService.Application.Contracts.csproj" />
     <ProjectReference Include="..\..\..\saas\src\Kraken.SaaSService.EntityFrameworkCore\Kraken.SaaSService.EntityFrameworkCore.csproj" />
     <ProjectReference Include="..\..\src\Kraken.AdministrationService.HttpApi\Kraken.AdministrationService.HttpApi.csproj" />

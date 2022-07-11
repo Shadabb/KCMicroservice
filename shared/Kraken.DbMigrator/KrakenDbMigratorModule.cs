@@ -2,6 +2,8 @@
 using Kraken.AdministrationService.EntityFrameworkCore;
 using Kraken.IdentityService;
 using Kraken.IdentityService.EntityFrameworkCore;
+using Kraken.ProjectService;
+using Kraken.ProjectService.EntityFrameworkCore;
 using Kraken.SaaSService;
 using Kraken.SaaSService.EntityFrameworkCore;
 using Volo.Abp.Autofac;
@@ -16,7 +18,9 @@ namespace Kraken.DbMigrator
     typeof(IdentityServiceEntityFrameworkCoreModule),
     typeof(IdentityServiceApplicationContractsModule),
     typeof(SaaSServiceEntityFrameworkCoreModule),
-    typeof(SaaSServiceApplicationContractsModule)
+    typeof(SaaSServiceApplicationContractsModule),
+    typeof(ProjectServiceEntityFrameworkCoreModule),
+    typeof(ProjectServiceApplicationContractsModule)
 )]
     public class KrakenDbMigratorModule : AbpModule
     {

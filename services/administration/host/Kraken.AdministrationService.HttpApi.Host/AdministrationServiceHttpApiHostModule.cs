@@ -18,6 +18,7 @@ using Kraken.IdentityService;
 using Kraken.IdentityService.EntityFrameworkCore;
 using Kraken.SaaSService;
 using Kraken.SaaSService.EntityFrameworkCore;
+using Kraken.ProjectService;
 
 namespace Kraken.AdministrationService;
 
@@ -29,7 +30,8 @@ namespace Kraken.AdministrationService;
     typeof(IdentityServiceApplicationContractsModule),
     typeof(IdentityServiceEntityFrameworkCoreModule),
     typeof(SaaSServiceApplicationContractsModule),
-    typeof(SaaSServiceEntityFrameworkCoreModule)
+    typeof(SaaSServiceEntityFrameworkCoreModule),
+    typeof(ProjectServiceApplicationContractsModule)
     )]
 public class AdministrationServiceHttpApiHostModule : AbpModule
 {

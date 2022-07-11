@@ -33,6 +33,8 @@
     <ProjectReference Include="..\..\services\administration\src\Kraken.AdministrationService.EntityFrameworkCore\Kraken.AdministrationService.EntityFrameworkCore.csproj" />
     <ProjectReference Include="..\..\services\identity\src\Kraken.IdentityService.Application.Contracts\Kraken.IdentityService.Application.Contracts.csproj" />
     <ProjectReference Include="..\..\services\identity\src\Kraken.IdentityService.EntityFrameworkCore\Kraken.IdentityService.EntityFrameworkCore.csproj" />
+    <ProjectReference Include="..\..\services\project\src\Kraken.ProjectService.Application.Contracts\Kraken.ProjectService.Application.Contracts.csproj" />
+    <ProjectReference Include="..\..\services\project\src\Kraken.ProjectService.EntityFrameworkCore\Kraken.ProjectService.EntityFrameworkCore.csproj" />
     <ProjectReference Include="..\..\services\saas\src\Kraken.SaaSService.Application.Contracts\Kraken.SaaSService.Application.Contracts.csproj" />
     <ProjectReference Include="..\..\services\saas\src\Kraken.SaaSService.EntityFrameworkCore\Kraken.SaaSService.EntityFrameworkCore.csproj" />
   </ItemGroup>

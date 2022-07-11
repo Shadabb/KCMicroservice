@@ -15,6 +15,7 @@ using Volo.Abp.Identity;
 using Volo.Abp.MultiTenancy;
 using Volo.Abp.TenantManagement;
 using Volo.Abp.Uow;
+using Kraken.ProjectService.EntityFrameworkCore;
 
 namespace Kraken.DbMigrator
 {
@@ -96,6 +97,7 @@ namespace Kraken.DbMigrator
 
                 await MigrateDatabaseAsync<AdministrationServiceDbContext>(cancellationToken);
                 await MigrateDatabaseAsync<IdentityServiceDbContext>(cancellationToken);
+                await MigrateDatabaseAsync<ProjectServiceDbContext>(cancellationToken);
 
                 await uow.CompleteAsync(cancellationToken);
             }

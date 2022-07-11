@@ -25,3 +25,8 @@ services:
   bindings:
     - protocol: https
       port: 7003
+- name: kraken-Projectservice-httpapi-host
+  project: services/project/host/Kraken.ProjectService.HttpApi.Host/Kraken.ProjectService.HttpApi.Host.csproj
+  bindings:
+    - protocol: https
+      port: 7004

@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\services\administration\src\Kraken.AdministrationService.EntityFrameworkCore\Kraken.AdministrationService.EntityFrameworkCore.csproj" />
+    <ProjectReference Include="..\..\services\saas\src\Kraken.SaaSService.EntityFrameworkCore\Kraken.SaaSService.EntityFrameworkCore.csproj" />
+    <ProjectReference Include="..\Kraken.DbMigrator\Kraken.DbMigrator.csproj" />
+    <ProjectReference Include="..\Kraken.Shared.Hosting\Kraken.Shared.Hosting.csproj" />
+  </ItemGroup>
+
+</Project>

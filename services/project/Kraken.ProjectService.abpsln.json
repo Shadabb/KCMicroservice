@@ -1,0 +1,7 @@
+{
+  "modules": {
+    "Kraken.ProjectService": {
+      "path": "Kraken.ProjectService.abpmdl.json"
+    }
+  }
+}
