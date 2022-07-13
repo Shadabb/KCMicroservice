@@ -14,6 +14,7 @@ public class Program
     public async static Task<int> Main(string[] args)
     {
         var assemblyName = typeof(Program).Assembly.GetName().Name;
+
         SerilogConfigurationHelper.Configure(assemblyName);
 
         try
